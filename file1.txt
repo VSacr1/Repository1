@@ -1,2 +1,2 @@
-This is linked to the testing branch
-Example of a conflict attempted
+This is linked to the develop branch
+Different text
